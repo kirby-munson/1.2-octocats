@@ -179,7 +179,7 @@ span {
 }
 .authors:before {
 	border-color: rgba(0, 0, 0, 0);
-	border-top-color: #;
+	/*border-top-color: #;*/
 	border-width: 11px;
 	margin-left: -11px;
 }
